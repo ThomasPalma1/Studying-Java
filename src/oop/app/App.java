@@ -13,7 +13,7 @@ public class App {
 		Triangle x, y;
 		x = new Triangle();
 		y = new Triangle();
-		
+
 		System.out.println("Enter the measures of triangle X: ");
 		x.a = sc.nextDouble();
 		x.b = sc.nextDouble();
