@@ -1,2 +1,1 @@
-# java-study-oop
-Object-Oriented Programming.
+# Studying-Java
