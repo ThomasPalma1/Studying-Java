@@ -1,4 +1,4 @@
-package class94;
+package list;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ public class Program {
 	public static void main(String[] args) {
 		List<String> list = new ArrayList<>();
 		list.add("Jatto");
-		list.add("Bárbara");
+		list.add("BÃ¡rbara");
 		list.add("Snow");
 		list.add("Bex");
 		list.add("Richard");
